@@ -4,6 +4,10 @@
 
 ```bash
 go mod init go.game/m
+# Auto install
+go mod tidy
+
+# Manual install
 go get github.com/eiannone/keyboard
 # go install github.com/eiannone/keyboard@latest
 go get github.com/fatih/color
