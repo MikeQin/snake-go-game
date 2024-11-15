@@ -1,4 +1,4 @@
-# Go Snake Game
+# Snake Go Game
 
 **Explanation of the Code**
 
