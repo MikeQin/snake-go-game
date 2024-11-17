@@ -1,4 +1,4 @@
-module go.game/m
+module snake.game/m
 
 go 1.23.2
 

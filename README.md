@@ -6,11 +6,16 @@
 go mod init go.game/m
 # Auto install
 go mod tidy
+# Clean mod cache
+go clean -modcache
 
 # Manual install
 go get github.com/eiannone/keyboard
-# go install github.com/eiannone/keyboard@latest
 go get github.com/fatih/color
+
+# Install Ebiten
+# go get github.com/hajimehoshi/ebiten/v2
+# go mod tidy
 ```
 
 ### Rules of the Snake Game
