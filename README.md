@@ -51,7 +51,7 @@ The game is designed to be simple but can be modified to add more features like 
 ### Game Loop and Input:
 
 * The game updates continuously in a loop. The update function checks for collisions with the walls, itself, and food.
-* Input is handled in a goroutine that listens for "w", "a", "s", and "d" for movement.
+* Input is handled in a goroutine that listens for "up", "down", "left", and "right" keys for movement.
 
 ### Screen Rendering:
 
