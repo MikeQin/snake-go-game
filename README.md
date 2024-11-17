@@ -93,7 +93,7 @@ This makes the game fairer and gives the player the possibility to win! Let me k
 ### Run the Game:
 
 * Run the game with go run snake.go.
-* Control the snake with "w", "a", "s", "d" to move up, left, down, and right.
+* Control the snake with "up", "down", "left", and "right" keys to move.
 
 Let me know if you'd like any further modifications or have questions about any part of the code! This example should provide a good base to start exploring Go while adding features or improving performance.
 
